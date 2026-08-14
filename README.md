@@ -1,4 +1,4 @@
-# 姜且｜Commission Archive
+# 姜且｜Word Commission
 
 GitHub Pages 版委託作品展示網站。
 
